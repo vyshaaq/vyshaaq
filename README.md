@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vyshaaq
+- 👀 I’m interested in python, machine learning & generative ai.
+- 🌱 I’m currently learning python,nltk, tensorflow, pytorch & scikit-learn.
